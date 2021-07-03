@@ -6,4 +6,4 @@
 # If none are selected error alert pops up
 # Password is then generated
 # To make a new password refresh page
-! [Alttext] (Develop\2021-07-03.png "application screenshot")
+! [image] (https://github.com/tyler1836/password-generator/blob/main/Develop/2021-07-03.png "application screenshot")
