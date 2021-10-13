@@ -6,5 +6,5 @@
 - If none are selected error alert pops up
 - Password is then generated
 - To make a new password refresh page
-- [try it here]
-! [image] (https://github.com/tyler1836/password-generator/blob/main/Develop/2021-07-03.png "application screenshot")
+- [try it here](https://tyler1836.github.io/password-generator/)
+
